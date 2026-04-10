@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="300">
+  <defs>
+    <clipPath id="round">
+      <rect width="400" height="300" rx="20" ry="20"/>
+    </clipPath>
+  </defs>
+  <image href="https://ссылка-на-твою-картинку.png" width="400" height="300" clip-path="url(#round)"/>
+</svg>
