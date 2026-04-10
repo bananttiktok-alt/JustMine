@@ -21,3 +21,5 @@
 
 Есть идеи? Думаете что сможете улучшить лаунчер? \
 Вы можете посетить наш Discord сервер и публиковать свои идеи там.
+
+[![Discord](./discord-badge.svg)](https://discord.com/invite/rbYcGN4QQf)
